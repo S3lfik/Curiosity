@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "CuriosityCharacter.h"
-#include "CuriosityProjectile.h"
+#include "Actors/CuriosityCharacter.h"
+#include "Actors/CuriosityProjectile.h"
 #include "Animation/AnimInstance.h"
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"

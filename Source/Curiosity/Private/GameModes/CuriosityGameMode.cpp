@@ -1,8 +1,8 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "CuriosityGameMode.h"
-#include "CuriosityHUD.h"
-#include "CuriosityCharacter.h"
+#include "GameModes/CuriosityGameMode.h"
+#include "UI/CuriosityHUD.h"
+#include "Actors/CuriosityCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 ACuriosityGameMode::ACuriosityGameMode()
